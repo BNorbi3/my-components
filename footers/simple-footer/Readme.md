@@ -1,0 +1,1 @@
+This is a basic footer HTML structure with CSS design.
